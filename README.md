@@ -5,7 +5,6 @@
   Data Science, Python, programming video games,
 - 👯 I’m looking to collaborate on
   Everything my knowledge let me
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
   anything you want
 
